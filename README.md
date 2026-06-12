@@ -2,7 +2,7 @@
 
 ## 👤 Intern Information
 * **Intern ID:** CITS4432
-* **Full Name:** Giridharun Saravanan
+* **Full Name:** Giridharun S
 * **Domain:** Internet of Things (IoT)
 * **Duration:** 4 Weeks
 
