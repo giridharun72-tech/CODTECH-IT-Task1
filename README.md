@@ -20,3 +20,5 @@ The data flow and hardware interaction are structured as follows:
 
 ```text
 [ Soil Moisture Sensor ] ──(Analog GPIO 34)──> [ ESP32 MCU ] ──(Digital GPIO 23)──> [ Relay/Water Pump LED ]
+This is for my simulations in wokwi.com has been created sucessfully in it.
+https://wokwi.com/projects/466584271604107265
